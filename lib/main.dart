@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(accentColor: Colors.amber[800]),
-      title: 'Baby Names',
+      title: 'Baby Names_',
       home: MyHomePageState(),
     );
   }
